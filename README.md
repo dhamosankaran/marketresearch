@@ -39,3 +39,13 @@ git commit -m "Fix: description of the bug fix"
 
 # 4. Push to GitHub
 git push origin main
+
+
+
+
+cd /Users/kalaidhamu/Downloads/MarketResearch/python-agents && source ../venv/bin/activate && export OPENAI_API_KEY="sk-proj-R0GJnvD3WmymG9FlFqkTT3BlbkFJIy2oYy3x7hDTDUOmidSx" && python -m uvicorn src.api.main:app --reload --port 8000
+
+
+lsof -i :8000
+
+kill -9 92468 93238
