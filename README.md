@@ -48,8 +48,8 @@ A modern, AI-powered market research platform that leverages multiple specialize
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/ai-market-research.git
-   cd ai-market-research
+   git clone https://github.com/dhamosankaran/marketresearch.git
+   cd marketresearch
    ```
 
 2. **Install frontend dependencies**
@@ -167,12 +167,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Shadcn UI](https://ui.shadcn.com/) for the beautiful UI components
 - [OpenAI](https://openai.com/) for the AI models
 
-## 📧 Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
-
-Project Link: [https://github.com/yourusername/ai-market-research](https://github.com/yourusername/ai-market-research) 
-
 ## 🔍 Troubleshooting
 
 Common issues and their solutions:
@@ -207,4 +201,10 @@ The system is optimized for:
 - All API requests are rate-limited
 - Environment variables are properly secured
 - No sensitive data is stored or logged
-- Regular dependency updates for security patches 
+- Regular dependency updates for security patches
+
+## 📧 Contact
+
+Dhamodharan Sankaran - [@dhamosankaran](https://twitter.com/dhamosankaran) - dhamo.sankaran@gmail.com
+
+Project Link: [https://github.com/dhamosankaran/marketresearch](https://github.com/dhamosankaran/marketresearch)
